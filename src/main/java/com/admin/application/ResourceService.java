@@ -78,4 +78,8 @@ public class ResourceService {
         Assert.hasText(resource.getUrl());
 
     }
+
+    public static void main(String[] args) {
+        System.out.println("hi");
+    }
 }
